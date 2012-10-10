@@ -1,0 +1,314 @@
+
+
+
+
+  
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+    <title>iText-2.1.7.jar | Source/Git | Assembla</title>
+    <link href="https://assets1.assembla.com/favicon.ico?1327583367" type="image/x-icon" rel="shortcut icon" />
+    <link href="https://assets2.assembla.com/favicon.ico?1327583367" type="image/x-icon" rel="icon" />
+    <link href="https://assets1.assembla.com/favicon.gif?1327583367" type="image/gif" rel="icon" />
+    <meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="uXLZp&#47;IMTqtEW8q2Lqgzl0y44QvYHNn&#47;IsbEmFLlhBw="/>
+    <link href="https://www.assembla.com/assets/base_app_and_alerts.css?1330431569" media="all" rel="stylesheet" type="text/css" />
+    
+    
+    <link href="https://www.assembla.com/assets/code.css?1330431569" media="all" rel="stylesheet" type="text/css" />  
+
+    
+    <!--[if IE 7]>
+      <link href="https://www.assembla.com/assets/ie7.css?1330431569" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if lte IE 8]>
+      <link href="https://www.assembla.com/assets/ie8.css?1330431569" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <link href="https://www.assembla.com/assets/print.css?1330431569" media="print" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+      if(!Breakout){var Breakout = {};}
+          Breakout.space_wiki_name = "partoche";
+          Breakout.space_id = "b4XfxKo6yr4BatacwqjQWU";
+        Breakout.user_id = "bPeXb206Sr4lqUeJe5cbLr";
+        Breakout.controller_name = "spaces/nodes"
+        Breakout.action_name = "show"
+    </script>
+    
+    <script src="https://www.assembla.com/assets/base.js?1330431616" type="text/javascript"></script>
+    <script src="https://www.assembla.com/assets/code.js?1330431569" type="text/javascript"></script>
+    
+    
+      
+
+      
+  
+  
+
+
+    <!-- prevents swf file caching -->
+    <meta http-equiv="PRAGMA" content="NO-CACHE" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    
+  </head>
+
+  <body class="locale_en" data-locale="en">
+    
+    <!--[if IE 6]>
+      <div class="browser-ie6" style="display: none;"><div>
+    <![endif]-->
+    <div class="b-wrapper">
+      <a name="pagetop"></a>
+        <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2641193-1']);
+    _gaq.push(['_setDomainName', 'assembla.com']);
+    _gaq.push(['_setCustomVar', 1, 'Logged', 'true', 1]);
+    
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
+  
+  </script>
+
+
+      <div class="hidden">
+        <a href="#content">Skip to contents</a>
+      </div>
+
+      
+          <div class="app-top-bar-spacer"></div>
+  
+  <div class="app-top-bar" id="header">
+    <div class="left-app-top-bar">
+      <ul>
+          <li class=" home">
+            <a href="/home" title="Go to Assembla">Assembla</a>
+          </li>
+          <li class=" start">
+            <a href="/start">My Start</a>
+          </li>
+
+          <li class="">
+            <a href="https://www.assembla.com/spaces/show/jeu-git">jeu-git</a>
+          </li>
+          <li class="">
+            <a href="https://www.assembla.com/spaces/show/pirates-ouchy">lavaudoise.com-backend</a>
+          </li>
+          <li class="">
+            <a href="https://www.assembla.com/spaces/show/pirates-ouchy-offline">lavaudoise.com-backend-offline</a>
+          </li>
+
+          <li class="selected">
+            <a href="https://www.assembla.com/spaces/show/partoche">Partoche</a>
+          </li>
+
+
+      </ul>
+    </div><!-- /left-app-top-bar -->
+
+    <div class="right-app-top-bar">
+      <div class="user-options" id="user-options">
+        <div class="dropdown-wraper">
+          <a class="dropdown-link" href="#">
+            <span class="user-pic"><img alt="User picture" src="https://assets0.assembla.com/user/small_picture/bPeXb206Sr4lqUeJe5cbLr/bPeXb206Sr4lqUeJe5cbLr" /></span>
+            <span class="user-name">Yann Lerjen</span>
+          </a>
+        </div>
+
+        <div id="user-links">
+          <ul>
+            <li><a href="/user/edit">Edit Profile</a></li>
+              <li><a href="/account">Account</a></li>
+            <li><a href="/logout">Logout</a></li>
+          </ul>
+        </div><!-- /user-links -->
+      </div><!-- /user-options -->
+
+    </div><!-- /right-app-top-bar -->
+
+  </div>
+
+
+
+<div id="header-w">
+  <div id="header" class="_">
+    <div id="header-links">
+      <div class="top-space"><span id="space-role">Free/Private Space <span>|</span> Owner</span></div>
+    </div>
+    <div id="logo">
+      <div  id="space-customlogo" class="space-customlogo-sideborder" >
+          <h1 class="header-w clear-float">
+            <span>Partoche</span>
+          </h1>
+
+            
+
+      </div>
+    </div>
+
+
+    <div class="cut">&nbsp;</div>
+
+  </div><!-- /header -->
+</div><!-- /header-w -->
+
+
+      
+      <div id="main-menu-w">
+        <ul class='clear-float' id='main-menu'><li class="current"><a href="/code/partoche/git/nodes">Source/Git</a></li><li class=""><a href="/spaces/partoche/stream">Stream</a></li><li class=""><a href="/spaces/partoche/team">Team</a></li><li class=""><a href="/spaces/partoche/admin/index">Admin</a></li><li class="grayed-out"><a href="/spaces/partoche/additional_tools">Additional Tools</a></li><li class="search-field"><form accept-charset="UTF-8" action="/spaces/partoche/search" id="search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div><input id="object_scope_top_right" name="object_scope" type="hidden" value="10" />
+<input class="main-search" id="q" name="q" onfocus="this.value == 'Search this space' ? this.value = '' : true" size="15" type="text" value="Search this space" />
+</form></li></ul>
+      </div><!-- /main-menu-w -->
+
+      <ul class='menu-submenu'><li><a href="/code/partoche/git/nodes" class="first selected">Browse</a></li><li><a href="/code/partoche/git/changesets" class="">Changesets</a></li><li><a href="/code/partoche/git/reviews" class="">Review Code</a></li><li><a href="/code/partoche/git/merge_requests" class="">Contribute Code</a></li><li><a href="/code/partoche/git/forks" class="">Fork Network</a></li><li><a href="/code/partoche/git/sites" class="">Sites</a></li><li><a href="/code/partoche/git/repo/instructions" class="">Instructions</a></li><li><a href="/code/partoche/git/repo/edit" class=" last">Settings</a></li></ul><div class='cut'></div>
+
+      
+
+      <div id="content" >
+        
+        
+          
+<div class="repository-browser">
+
+  <h1 class="icon-breadcrumb-path"><a href="/code/partoche/git/nodes/master" class="root">master</a>/<span>iText-2.1.7.jar</span><span>    <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+            width="110"
+            height="14"
+            id="clippy" >
+    <param name="movie" value="/clippy.swf"/>
+    <param name="allowScriptAccess" value="always" />
+    <param name="quality" value="high" />
+    <param name="scale" value="noscale" />
+    <param NAME="FlashVars" value="text=git@git.assembla.com:partoche.git/iText-2.1.7.jar/" />
+    <param name="bgcolor" value="#FFFFFF" />
+    <param name="wmode" value="transparent" />
+    <embed src="/clippy.swf"
+           width="110"
+           height="14"
+           name="clippy"
+           quality="high"
+           allowScriptAccess="always"
+           type="application/x-shockwave-flash"
+           pluginspage="http://www.macromedia.com/go/getflashplayer"
+           FlashVars="text=git@git.assembla.com:partoche.git/iText-2.1.7.jar/"
+           bgcolor="#FFFFFF"
+           wmode="transparent"
+    />
+    </object>
+</span></h1>
+  
+<div class="commit-infobox">
+  <div class="commit-options">
+    <a href="/code/partoche/git/node/logs/master/iText-2.1.7.jar" class="revision-log" rel="nofollow">Revision log</a>
+
+        <div style="margin-right: 10px;" class="small-icon-button">
+    <a class="download-icon" href="#" onclick="nobotGoto('!/code/partoche/git/nodes/master/iText-2.1.7.jar?_format=raw'); return false;">Download</a>
+  </div>
+
+
+    <div style="margin-right: 10px;" class="small-icon-button">
+      <a href="/code/partoche/git/sites/new?path=master%2FiText-2.1.7.jar" class="publish-icon" title="Publish as a Web site">Publish</a>
+    </div>
+  </div>
+
+  <div class="committer-pic">
+    <img alt="User picture" src="https://assets1.assembla.com/images/no-picture.png?1330431569" />
+  </div>
+
+  
+<div class="commit-info">
+    <p class="committer-info"><span>Commiter:</span> <a href="/profile/laggery" tabindex="-1" target="_blank" title="Show Profile">laggery</a></p>
+
+    <p class="committer-info"><span>Author:</span> <a href="/profile/laggery" tabindex="-1" target="_blank" title="Show Profile">laggery</a></p>
+
+  <p class="committer-info"><span>Revision:</span> <a href="/code/partoche/git/changesets/59f9311a4c341badd278db08c4894d4d125bce31">33fbb4c670</a> </p><br />
+    <p class="commit-size">
+      <span>File Size:</span>
+      1.08 MB
+    </p>
+  <p class="commit-date">(Feb 29) 31 minutes ago</p>
+</div>
+
+
+
+  <p class="commit-description">
+    <pre>librairie permettant de generer les pdf</pre>
+  </p>
+</div>
+
+<div class="cut">&nbsp;</div>
+
+
+  <h2>Binary file</h2>
+  <p>File content cannot be displayed for binary files.</p>
+</div>
+
+
+      </div><!-- /content -->
+
+        
+
+      <div class="push-app"></div>
+    </div><!-- /b-wrapper -->
+
+    <div class="cut">&nbsp;</div>
+      <div id="footer-w">
+  <div class="tutorial-and-bookmark">
+      
+  </div>
+
+  
+
+  <div id="footer">
+
+    <p>
+      <a href="/">Home</a>
+      / <a href="/community">Community</a>
+      / <a href="http://www.assembla.com/wiki/show/c8A2BGQEWr2RUvaaeP0Qfc">Documentation</a>
+        / <a href="http://forum.assembla.com/" target="_blank">Report bugs</a>
+        / <a href="http://feedback.assembla.com/" target="_blank">Send us Suggestions</a>
+        / <a href="/spaces/partoche/prepare_copy">Copy this space</a>
+    </p>
+
+      <p>
+        
+      </p>
+
+    <p id="copyr-contact">
+    Partoche is powered by Assembla Workspaces. <a href="/">Learn More</a>
+</p>
+
+  </div><!-- /footer -->
+</div><!-- /footer-w -->
+
+
+
+    
+  
+
+
+
+    
+  <script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/30/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","9dfe439095",8763,"Il9dRhNbCVtVQhgXQgBTVkFOWgpTVUMYF1oORw==",0.0,513,new Date().getTime(),"","","","",""])</script></body>
+</html>
+
+
+
+

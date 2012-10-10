@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="JFontChooser">
+<!--
+<bannerLeft>
+</bannerLeft>
+<bannerRight>
+	<name>SourceForge.jp</name>
+	<src>http://sourceforge.jp/sflogo.php?group_id=967</src>
+	<href>http://sourceforge.jp/</href>
+</bannerRight>
+-->
+<poweredBy>
+	<logo name="SourceForge.jp" href="http://www.sourceforge.jp/"
+		img="http://sourceforge.jp/sflogo.php?group_id=967" />
+	<logo ref="maven" />
+</poweredBy>
+<body>
+	<links>
+		<item name="SOURCEFORGE.JP" href="http://www.sourceforge.jp/" />
+		<item name="Maven 2" href="http://maven.apache.org/" />
+	</links>
+
+	<menu name="Menu">
+		<item name="Project Summary" href="project-summary.html" />
+		<item name="Screenshots" href="screenshots.html" />
+		<item name="Download" href="download.html" />
+		<item name="Java Web Start" href="javaws.html" />
+		<item name="Maven Repository" href="repository.html" />
+		<item name="API Document" href="apidocs/index.html" />
+	</menu>
+	<!--
+	<menu ref="reports" />
+	-->
+</body>
+</project>
